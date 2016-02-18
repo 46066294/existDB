@@ -1,0 +1,10 @@
+Ubicació de llibreria exist-xqj
+
+
+http://ioc.xtec.cat/materials/FP/Materials/2252_DAM/DAM_2252_M06/web/html/WebContent/u3/a1/annexos.html
+
+
+Descarregar
+    1.10 Material per a desenvolupament sobre SGBD-XML natives utilitzant l'API XQJ
+        API XQJ per al'SGBD eXist-db ( 381.6 KB )
+
